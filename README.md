@@ -24,6 +24,5 @@
 
 - [Описание практической работы](practical_work_1/README.md)
 - [Ноутбук с расчётами](practical_work_1/time_series_analysis.ipynb)
-- [Итоговая визуализация прогноза и фактических цен за 2026 год](practical_work_1/figures/forecast_vs_actual_2026.png)
 
 Материалы будут дополняться по мере выполнения заданий курса.
